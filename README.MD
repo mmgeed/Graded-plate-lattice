@@ -21,7 +21,7 @@ You can download the Windows installer from the link below:
 This project is distributed under the MIT license. 
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Mohamed Abdelmageed]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
